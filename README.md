@@ -19,7 +19,7 @@
 <p><b>Second IAT Test: </b>
 <a href="https://v24fja1g7v.cognition.run">Augmented Cognition</a></p>
 <p><b>Third IAT Test: </b>
-<a href="https://n2rdyweal3.cognition.run">Augmented Senses</a></p><br><br></p>
+<a href="https://n2rdyweal3.cognition.run">Augmented Senses</a></p>
 
 </body>
 </html>
