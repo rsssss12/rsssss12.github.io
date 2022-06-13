@@ -20,6 +20,3 @@
 <a href="https://v24fja1g7v.cognition.run">Augmented Cognition</a></p>
 <p><b>Third IAT Test: </b>
 <a href="https://n2rdyweal3.cognition.run">Augmented Senses</a>
-
-</body>
-</html>
